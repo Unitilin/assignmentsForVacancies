@@ -1,0 +1,15 @@
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.csproj.AssemblyReference.cache
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.AssemblyInfoInputs.cache
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.AssemblyInfo.cs
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.csproj.CoreCompileInputs.cache
+C:\MobilaApp\TestQuest\TestQuestAliExpress\bin\Debug\net6.0\TestQuestAliExpress.exe
+C:\MobilaApp\TestQuest\TestQuestAliExpress\bin\Debug\net6.0\TestQuestAliExpress.deps.json
+C:\MobilaApp\TestQuest\TestQuestAliExpress\bin\Debug\net6.0\TestQuestAliExpress.runtimeconfig.json
+C:\MobilaApp\TestQuest\TestQuestAliExpress\bin\Debug\net6.0\TestQuestAliExpress.dll
+C:\MobilaApp\TestQuest\TestQuestAliExpress\bin\Debug\net6.0\TestQuestAliExpress.pdb
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.dll
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\refint\TestQuestAliExpress.dll
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.pdb
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\TestQuestAliExpress.genruntimeconfig.cache
+C:\MobilaApp\TestQuest\TestQuestAliExpress\obj\Debug\net6.0\ref\TestQuestAliExpress.dll
